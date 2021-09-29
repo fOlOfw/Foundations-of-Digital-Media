@@ -1,2 +1,2 @@
 # Foundations of Digital Media Explorations
-## DIGM 5010 - Foundations of Digital Media
+DIGM 5010 - Foundations of Digital Media
