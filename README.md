@@ -1,1 +1,1 @@
-# Foundations-of-Digital-Media
+## Foundations of Digital Media Explorations
